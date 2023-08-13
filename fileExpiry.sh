@@ -1,5 +1,6 @@
 #!/bin/bash
 echo ""
+sleep 3
 
 #set the number of days
 days=5
@@ -18,5 +19,6 @@ rm "$file"
 fi
 done
 echo ""
+sleep 3
 name=jualong
 echo "Thanks for using $name Script"
