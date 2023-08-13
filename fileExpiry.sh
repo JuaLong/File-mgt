@@ -1,4 +1,5 @@
 #!/bin/bash
+echo ""
 
 #set the number of days
 days=5
@@ -16,3 +17,6 @@ then
 rm "$file"
 fi
 done
+echo ""
+name=jualong
+echo "Thanks for using $name Script"
