@@ -1,6 +1,7 @@
 #!/bin/bash
 echo ""
 sleep 3
+echo "A script to automatic delete a file in folder afta 5 days"
 
 #set the number of days
 days=5
